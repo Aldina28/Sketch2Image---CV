@@ -1,6 +1,6 @@
-# Sketch2Poto
+# Sketch2Image
 
-**Sketch2Photo** is a computer vision project inspired by the SIGGRAPH paper *“Sketch2Photo: Internet Image Montage”*.  
+**Sketch2Image** is a computer vision project inspired by the SIGGRAPH paper *“Sketch2Photo: Internet Image Montage”*.  
 It converts user-provided sketches and keywords into a realistic composite image by retrieving and blending real photos from the web.
 
 ---
